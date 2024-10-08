@@ -24,7 +24,7 @@ github_username:  rreischke
 # Build settings
 #markdown: kramdown
 markdown: CommonMarkGhPages
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
 
