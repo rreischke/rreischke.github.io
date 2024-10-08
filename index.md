@@ -6,7 +6,7 @@ layout: wrapper
 
 # About me
 
-![picture]("/assets/bild_me.jpeg")  
+![picture]("./assets/bild_me.jpeg")  
 
 
 
