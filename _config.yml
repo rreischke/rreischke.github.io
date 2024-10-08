@@ -16,7 +16,7 @@
 title: Robert Reischke
 email: reischke@posteo.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Based at the University of Bonn.
+  Postdoctoral Fellow in Cosmology at the Rheinische Friedrich-Wilhelms-Universität in Bonn
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rreischke.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  rreischke
